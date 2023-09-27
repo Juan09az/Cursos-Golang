@@ -1,0 +1,18 @@
+Metodo sort para ordenar un slice 
+https://www.geeksforgeeks.org/how-to-sort-a-slice-in-golang/
+
+Hallar mayor manualmente adaptado para estructuras
+https://parzibyte.me/blog/2018/03/07/numero-mayor-menor-arreglo-go/
+
+Hallar promedio manualmente adaptado para estructuras
+https://parzibyte.me/blog/2017/12/07/promedio-arreglos-go/
+
+Manejo de estructuras - anidadas
+https://apuntes.de/golang/estructuras-anidadas/#gsc.tab=0
+https://morioh.com/p/57c587c2a4c2
+
+Manejo de JSON, web
+https://www.tutorialspoint.com/how-to-parse-json-files-in-golang#
+
+Demás
+https://www.youtube.com/watch?v=xIN9HLThMq0&ab_channel=JonCalhoun 
